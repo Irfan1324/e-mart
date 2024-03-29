@@ -1,0 +1,11 @@
+.panda-c-bg {
+    background-color: #ffb6c1;
+}
+
+.button-bg {
+    background-image: linear-gradient(rgb(101, 0, 57), #e83e8c);
+}
+
+.price {
+    color: #e83e8c;
+}
